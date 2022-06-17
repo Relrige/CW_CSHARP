@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\CW_17.04\CW_17.04\obj\Debug\net5.0\CW_17.04.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CW_17.04\CW_17.04\obj\Debug\net5.0\CW_17.04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CW_17.04\CW_17.04\obj\Debug\net5.0\CW_17.04.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CW_17.04\CW_17.04\obj\Debug\net5.0\CW_17.04.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CW_17.04\CW_17.04\obj\Debug\net5.0\CW_17.04.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CW_17.04\CW_17.04\bin\Debug\net5.0\CW_17.04.exe
+C:\Users\Admin\Desktop\CW_17.04\CW_17.04\bin\Debug\net5.0\CW_17.04.deps.json
+C:\Users\Admin\Desktop\CW_17.04\CW_17.04\bin\Debug\net5.0\CW_17.04.runtimeconfig.json
+C:\Users\Admin\Desktop\CW_17.04\CW_17.04\bin\Debug\net5.0\CW_17.04.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\CW_17.04\CW_17.04\bin\Debug\net5.0\CW_17.04.dll
+C:\Users\Admin\Desktop\CW_17.04\CW_17.04\bin\Debug\net5.0\ref\CW_17.04.dll
+C:\Users\Admin\Desktop\CW_17.04\CW_17.04\bin\Debug\net5.0\CW_17.04.pdb
+C:\Users\Admin\Desktop\CW_17.04\CW_17.04\obj\Debug\net5.0\CW_17.04.dll
+C:\Users\Admin\Desktop\CW_17.04\CW_17.04\obj\Debug\net5.0\ref\CW_17.04.dll
+C:\Users\Admin\Desktop\CW_17.04\CW_17.04\obj\Debug\net5.0\CW_17.04.pdb
+C:\Users\Admin\Desktop\CW_17.04\CW_17.04\obj\Debug\net5.0\CW_17.04.genruntimeconfig.cache

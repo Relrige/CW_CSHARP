@@ -1,0 +1,5 @@
+C:\Users\Admin\Desktop\CW_17.04\CW_Inhertion\obj\Debug\net5.0\CW_Inhertion.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CW_17.04\CW_Inhertion\obj\Debug\net5.0\CW_Inhertion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CW_17.04\CW_Inhertion\obj\Debug\net5.0\CW_Inhertion.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CW_17.04\CW_Inhertion\obj\Debug\net5.0\CW_Inhertion.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CW_17.04\CW_Inhertion\obj\Debug\net5.0\CW_Inhertion.csproj.CoreCompileInputs.cache
