@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\CW_15.05\CW_15.05\obj\Debug\net5.0\CW_15.05.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CW_15.05\CW_15.05\obj\Debug\net5.0\CW_15.05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CW_15.05\CW_15.05\obj\Debug\net5.0\CW_15.05.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CW_15.05\CW_15.05\obj\Debug\net5.0\CW_15.05.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CW_15.05\CW_15.05\obj\Debug\net5.0\CW_15.05.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CW_15.05\CW_15.05\bin\Debug\net5.0\CW_15.05.exe
+C:\Users\Admin\Desktop\CW_15.05\CW_15.05\bin\Debug\net5.0\CW_15.05.deps.json
+C:\Users\Admin\Desktop\CW_15.05\CW_15.05\bin\Debug\net5.0\CW_15.05.runtimeconfig.json
+C:\Users\Admin\Desktop\CW_15.05\CW_15.05\bin\Debug\net5.0\CW_15.05.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\CW_15.05\CW_15.05\bin\Debug\net5.0\CW_15.05.dll
+C:\Users\Admin\Desktop\CW_15.05\CW_15.05\bin\Debug\net5.0\ref\CW_15.05.dll
+C:\Users\Admin\Desktop\CW_15.05\CW_15.05\bin\Debug\net5.0\CW_15.05.pdb
+C:\Users\Admin\Desktop\CW_15.05\CW_15.05\obj\Debug\net5.0\CW_15.05.dll
+C:\Users\Admin\Desktop\CW_15.05\CW_15.05\obj\Debug\net5.0\ref\CW_15.05.dll
+C:\Users\Admin\Desktop\CW_15.05\CW_15.05\obj\Debug\net5.0\CW_15.05.pdb
+C:\Users\Admin\Desktop\CW_15.05\CW_15.05\obj\Debug\net5.0\CW_15.05.genruntimeconfig.cache
