@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\CW_INT\Structures\obj\Debug\net5.0\Structures.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CW_INT\Structures\obj\Debug\net5.0\Structures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CW_INT\Structures\obj\Debug\net5.0\Structures.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CW_INT\Structures\obj\Debug\net5.0\Structures.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CW_INT\Structures\obj\Debug\net5.0\Structures.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CW_INT\Structures\bin\Debug\net5.0\Structures.exe
+C:\Users\Admin\Desktop\CW_INT\Structures\bin\Debug\net5.0\Structures.deps.json
+C:\Users\Admin\Desktop\CW_INT\Structures\bin\Debug\net5.0\Structures.runtimeconfig.json
+C:\Users\Admin\Desktop\CW_INT\Structures\bin\Debug\net5.0\Structures.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\CW_INT\Structures\bin\Debug\net5.0\Structures.dll
+C:\Users\Admin\Desktop\CW_INT\Structures\bin\Debug\net5.0\ref\Structures.dll
+C:\Users\Admin\Desktop\CW_INT\Structures\bin\Debug\net5.0\Structures.pdb
+C:\Users\Admin\Desktop\CW_INT\Structures\obj\Debug\net5.0\Structures.dll
+C:\Users\Admin\Desktop\CW_INT\Structures\obj\Debug\net5.0\ref\Structures.dll
+C:\Users\Admin\Desktop\CW_INT\Structures\obj\Debug\net5.0\Structures.pdb
+C:\Users\Admin\Desktop\CW_INT\Structures\obj\Debug\net5.0\Structures.genruntimeconfig.cache
