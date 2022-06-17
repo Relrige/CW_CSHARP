@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Class_work_03.04.2022\class\bin\Debug\net5.0\class.exe
+C:\Users\Admin\Desktop\Class_work_03.04.2022\class\bin\Debug\net5.0\class.deps.json
+C:\Users\Admin\Desktop\Class_work_03.04.2022\class\bin\Debug\net5.0\class.runtimeconfig.json
+C:\Users\Admin\Desktop\Class_work_03.04.2022\class\bin\Debug\net5.0\class.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Class_work_03.04.2022\class\bin\Debug\net5.0\class.dll
+C:\Users\Admin\Desktop\Class_work_03.04.2022\class\bin\Debug\net5.0\ref\class.dll
+C:\Users\Admin\Desktop\Class_work_03.04.2022\class\bin\Debug\net5.0\class.pdb
+C:\Users\Admin\Desktop\Class_work_03.04.2022\class\obj\Debug\net5.0\class.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Class_work_03.04.2022\class\obj\Debug\net5.0\class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Class_work_03.04.2022\class\obj\Debug\net5.0\class.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Class_work_03.04.2022\class\obj\Debug\net5.0\class.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Class_work_03.04.2022\class\obj\Debug\net5.0\class.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Class_work_03.04.2022\class\obj\Debug\net5.0\class.dll
+C:\Users\Admin\Desktop\Class_work_03.04.2022\class\obj\Debug\net5.0\ref\class.dll
+C:\Users\Admin\Desktop\Class_work_03.04.2022\class\obj\Debug\net5.0\class.pdb
+C:\Users\Admin\Desktop\Class_work_03.04.2022\class\obj\Debug\net5.0\class.genruntimeconfig.cache
