@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\CW_10.04\CW+TUPLE\bin\Debug\net5.0\CW+TUPLE.exe
+C:\Users\Admin\Desktop\CW_10.04\CW+TUPLE\bin\Debug\net5.0\CW+TUPLE.deps.json
+C:\Users\Admin\Desktop\CW_10.04\CW+TUPLE\bin\Debug\net5.0\CW+TUPLE.runtimeconfig.json
+C:\Users\Admin\Desktop\CW_10.04\CW+TUPLE\bin\Debug\net5.0\CW+TUPLE.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\CW_10.04\CW+TUPLE\bin\Debug\net5.0\CW+TUPLE.dll
+C:\Users\Admin\Desktop\CW_10.04\CW+TUPLE\bin\Debug\net5.0\ref\CW+TUPLE.dll
+C:\Users\Admin\Desktop\CW_10.04\CW+TUPLE\bin\Debug\net5.0\CW+TUPLE.pdb
+C:\Users\Admin\Desktop\CW_10.04\CW+TUPLE\obj\Debug\net5.0\CW+TUPLE.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CW_10.04\CW+TUPLE\obj\Debug\net5.0\CW+TUPLE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CW_10.04\CW+TUPLE\obj\Debug\net5.0\CW+TUPLE.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CW_10.04\CW+TUPLE\obj\Debug\net5.0\CW+TUPLE.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CW_10.04\CW+TUPLE\obj\Debug\net5.0\CW+TUPLE.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CW_10.04\CW+TUPLE\obj\Debug\net5.0\CW+TUPLE.dll
+C:\Users\Admin\Desktop\CW_10.04\CW+TUPLE\obj\Debug\net5.0\ref\CW+TUPLE.dll
+C:\Users\Admin\Desktop\CW_10.04\CW+TUPLE\obj\Debug\net5.0\CW+TUPLE.pdb
+C:\Users\Admin\Desktop\CW_10.04\CW+TUPLE\obj\Debug\net5.0\CW+TUPLE.genruntimeconfig.cache

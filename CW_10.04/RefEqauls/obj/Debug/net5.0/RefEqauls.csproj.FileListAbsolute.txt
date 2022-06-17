@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\CW_10.04\RefEqauls\bin\Debug\net5.0\RefEqauls.exe
+C:\Users\Admin\Desktop\CW_10.04\RefEqauls\bin\Debug\net5.0\RefEqauls.deps.json
+C:\Users\Admin\Desktop\CW_10.04\RefEqauls\bin\Debug\net5.0\RefEqauls.runtimeconfig.json
+C:\Users\Admin\Desktop\CW_10.04\RefEqauls\bin\Debug\net5.0\RefEqauls.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\CW_10.04\RefEqauls\bin\Debug\net5.0\RefEqauls.dll
+C:\Users\Admin\Desktop\CW_10.04\RefEqauls\bin\Debug\net5.0\ref\RefEqauls.dll
+C:\Users\Admin\Desktop\CW_10.04\RefEqauls\bin\Debug\net5.0\RefEqauls.pdb
+C:\Users\Admin\Desktop\CW_10.04\RefEqauls\obj\Debug\net5.0\RefEqauls.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CW_10.04\RefEqauls\obj\Debug\net5.0\RefEqauls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CW_10.04\RefEqauls\obj\Debug\net5.0\RefEqauls.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CW_10.04\RefEqauls\obj\Debug\net5.0\RefEqauls.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CW_10.04\RefEqauls\obj\Debug\net5.0\RefEqauls.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CW_10.04\RefEqauls\obj\Debug\net5.0\RefEqauls.dll
+C:\Users\Admin\Desktop\CW_10.04\RefEqauls\obj\Debug\net5.0\ref\RefEqauls.dll
+C:\Users\Admin\Desktop\CW_10.04\RefEqauls\obj\Debug\net5.0\RefEqauls.pdb
+C:\Users\Admin\Desktop\CW_10.04\RefEqauls\obj\Debug\net5.0\RefEqauls.genruntimeconfig.cache

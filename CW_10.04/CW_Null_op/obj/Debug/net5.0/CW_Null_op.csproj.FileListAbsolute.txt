@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\CW_10.04\CW_Null_op\bin\Debug\net5.0\CW_Null_op.exe
+C:\Users\Admin\Desktop\CW_10.04\CW_Null_op\bin\Debug\net5.0\CW_Null_op.deps.json
+C:\Users\Admin\Desktop\CW_10.04\CW_Null_op\bin\Debug\net5.0\CW_Null_op.runtimeconfig.json
+C:\Users\Admin\Desktop\CW_10.04\CW_Null_op\bin\Debug\net5.0\CW_Null_op.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\CW_10.04\CW_Null_op\bin\Debug\net5.0\CW_Null_op.dll
+C:\Users\Admin\Desktop\CW_10.04\CW_Null_op\bin\Debug\net5.0\ref\CW_Null_op.dll
+C:\Users\Admin\Desktop\CW_10.04\CW_Null_op\bin\Debug\net5.0\CW_Null_op.pdb
+C:\Users\Admin\Desktop\CW_10.04\CW_Null_op\obj\Debug\net5.0\CW_Null_op.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\CW_10.04\CW_Null_op\obj\Debug\net5.0\CW_Null_op.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\CW_10.04\CW_Null_op\obj\Debug\net5.0\CW_Null_op.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CW_10.04\CW_Null_op\obj\Debug\net5.0\CW_Null_op.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CW_10.04\CW_Null_op\obj\Debug\net5.0\CW_Null_op.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CW_10.04\CW_Null_op\obj\Debug\net5.0\CW_Null_op.dll
+C:\Users\Admin\Desktop\CW_10.04\CW_Null_op\obj\Debug\net5.0\ref\CW_Null_op.dll
+C:\Users\Admin\Desktop\CW_10.04\CW_Null_op\obj\Debug\net5.0\CW_Null_op.pdb
+C:\Users\Admin\Desktop\CW_10.04\CW_Null_op\obj\Debug\net5.0\CW_Null_op.genruntimeconfig.cache
